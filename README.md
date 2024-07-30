@@ -5,7 +5,7 @@
 - Boosted sales by identifying top-selling product categories and products, aiding in inventory planning to meet demand.
 # Insights and Trends
 
-1. Targeted Demographic Analysis:
+1. **Targeted Demographic Analysis**:
    - Married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation are likely to purchase products from Food, Clothing, and Electronics categories.
 
 2. **Marital Status and Age Group**:
